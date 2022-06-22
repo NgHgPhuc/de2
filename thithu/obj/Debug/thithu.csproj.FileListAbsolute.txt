@@ -1,0 +1,15 @@
+C:\isual tudio\thithu\thithu\bin\Debug\thithu.exe.config
+C:\isual tudio\thithu\thithu\bin\Debug\thithu.exe
+C:\isual tudio\thithu\thithu\bin\Debug\thithu.pdb
+C:\isual tudio\thithu\thithu\bin\Debug\EntityFramework.dll
+C:\isual tudio\thithu\thithu\bin\Debug\EntityFramework.SqlServer.dll
+C:\isual tudio\thithu\thithu\bin\Debug\EntityFramework.xml
+C:\isual tudio\thithu\thithu\bin\Debug\EntityFramework.SqlServer.xml
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.csproj.AssemblyReference.cache
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.Properties.Resources.resources
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.csproj.GenerateResource.cache
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.csproj.CoreCompileInputs.cache
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.exe
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.pdb
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.Views.Form1.resources
+C:\isual tudio\thithu\thithu\obj\Debug\thithu.Views.Form2.resources
